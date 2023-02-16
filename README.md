@@ -1,4 +1,4 @@
-# calculate-power-of-n-numbers-using-Recursion
+# calculate-power-of-n-numbers-using-Recursion-JAVA
 output:-2^5=32,2^3=8
 
 
