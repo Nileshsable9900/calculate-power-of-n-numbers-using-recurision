@@ -1,4 +1,4 @@
-# calculate-power-of-n-numbers-using-recurision
+# calculate-power-of-n-numbers-using-Recursion
 output:-2^5=32,2^3=8
 
 
